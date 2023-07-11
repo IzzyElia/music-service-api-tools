@@ -1,6 +1,8 @@
 # User data
 cache/
 config/
+.cache
+.ini
 
 # Byte-compiled / optimized Python files
 *.pyc
