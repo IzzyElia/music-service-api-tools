@@ -1,6 +1,7 @@
 # User data
-cache/
-config/
+cache/*
+config/*
+output/*
 .cache
 .ini
 
